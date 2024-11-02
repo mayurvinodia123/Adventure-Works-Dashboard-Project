@@ -13,3 +13,4 @@ I'm thrilled to share my new Power BI dashboard designed for AdventureWorks, spo
 This dashboard brings to light actionable insights like profit trends, return rates, and regional sales distribution, offering a solid foundation for data-driven decision-making.
 
 A big thank you to Chris Dutton, Aaron Parry, and the Maven Analytics team for their incredible support in bringing this project to life!
+#PowerBI hashtag#DataAnalytics hashtag#DashboardDesign hashtag#SalesAnalysis hashtag#BusinessIntelligence hashtag#DataDriven hashtag#RevenueGrowth hashtag#CustomerInsights hashtag#DataVisualization
